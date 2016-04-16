@@ -1,0 +1,9 @@
+D:\Users\Xuheyao\Documents\Visual Studio 2013\Projects\C#\Winform\Socket通信_Client\Socket通信_Client\bin\Debug\Socket通信_Client.exe.config
+D:\Users\Xuheyao\Documents\Visual Studio 2013\Projects\C#\Winform\Socket通信_Client\Socket通信_Client\bin\Debug\Socket通信_Client.exe
+D:\Users\Xuheyao\Documents\Visual Studio 2013\Projects\C#\Winform\Socket通信_Client\Socket通信_Client\bin\Debug\Socket通信_Client.pdb
+D:\Users\Xuheyao\Documents\Visual Studio 2013\Projects\C#\Winform\Socket通信_Client\Socket通信_Client\obj\Debug\Socket通信_Client.Form1.resources
+D:\Users\Xuheyao\Documents\Visual Studio 2013\Projects\C#\Winform\Socket通信_Client\Socket通信_Client\obj\Debug\Socket通信_Client.Properties.Resources.resources
+D:\Users\Xuheyao\Documents\Visual Studio 2013\Projects\C#\Winform\Socket通信_Client\Socket通信_Client\obj\Debug\Socket通信_Client.csproj.GenerateResource.Cache
+D:\Users\Xuheyao\Documents\Visual Studio 2013\Projects\C#\Winform\Socket通信_Client\Socket通信_Client\obj\Debug\Socket通信_Client.exe
+D:\Users\Xuheyao\Documents\Visual Studio 2013\Projects\C#\Winform\Socket通信_Client\Socket通信_Client\obj\Debug\Socket通信_Client.pdb
+D:\Users\Xuheyao\Documents\Visual Studio 2013\Projects\C#\Winform\Socket通信_Client\Socket通信_Client\obj\Debug\Socket通信_Client.csprojResolveAssemblyReference.cache
