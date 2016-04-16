@@ -1,0 +1,8 @@
+D:\Users\Xuheyao\Documents\Visual Studio 2013\Projects\C#\Winform\Socket通信_Server\Socket通信_Server\bin\Debug\Socket通信_Server.exe.config
+D:\Users\Xuheyao\Documents\Visual Studio 2013\Projects\C#\Winform\Socket通信_Server\Socket通信_Server\bin\Debug\Socket通信_Server.exe
+D:\Users\Xuheyao\Documents\Visual Studio 2013\Projects\C#\Winform\Socket通信_Server\Socket通信_Server\bin\Debug\Socket通信_Server.pdb
+D:\Users\Xuheyao\Documents\Visual Studio 2013\Projects\C#\Winform\Socket通信_Server\Socket通信_Server\obj\Debug\Socket通信_Server.Properties.Resources.resources
+D:\Users\Xuheyao\Documents\Visual Studio 2013\Projects\C#\Winform\Socket通信_Server\Socket通信_Server\obj\Debug\Socket通信_Server.csproj.GenerateResource.Cache
+D:\Users\Xuheyao\Documents\Visual Studio 2013\Projects\C#\Winform\Socket通信_Server\Socket通信_Server\obj\Debug\Socket通信_Server.exe
+D:\Users\Xuheyao\Documents\Visual Studio 2013\Projects\C#\Winform\Socket通信_Server\Socket通信_Server\obj\Debug\Socket通信_Server.pdb
+D:\Users\Xuheyao\Documents\Visual Studio 2013\Projects\C#\Winform\Socket通信_Server\Socket通信_Server\obj\Debug\Socket通信.Form1.resources
